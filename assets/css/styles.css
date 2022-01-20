@@ -1,0 +1,63 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#viajes-chile{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+.quienes-somos{
+    text-align: center;
+    padding: 30px 0 10px 0;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+#parrafos{
+    text-align: left;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+.bg-info i{
+    font-size: 25px;
+}
+
+#destacados{
+    text-align: center;
+    padding: 30px 0 10px 0;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+#p{
+    color: white;
+}
+
+#cards{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+#contacto{
+    text-align: center;
+    padding: 30px 0 10px 0;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+#footer{
+    text-align:end;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#icon{
+    text-align: right;
+}
